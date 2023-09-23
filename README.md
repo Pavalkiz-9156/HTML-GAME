@@ -11,6 +11,11 @@ Every time you click a square you get points.
 Color of the square shows, how many points it gives to you:
 
 1 point - Red
+
 2 points - Yellow
+
 3 points - Green
+
 4 points - Blue
+
+(Added by 0.2 update) 2 -> 5 points - Purple
